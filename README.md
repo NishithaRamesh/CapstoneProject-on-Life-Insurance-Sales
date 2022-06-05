@@ -1,4 +1,4 @@
-# Life-Insurance-Sales
+#CapstoneProject-on-Life-Insurance-Sales
 
 **Problem statement: Life Insurance Data**
 

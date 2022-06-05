@@ -1,4 +1,4 @@
-<h2? CapstoneProject-on-Life-Insurance-Sales </h2>
+<h2> CapstoneProject-on-Life-Insurance-Sales </h2>
 
 **Problem statement: Life Insurance Data**
 
